@@ -1,0 +1,27 @@
+{
+  "projectName": "SAM",
+  "defaultSectionPath": [
+    "Docs",
+    "SAM"
+  ],
+  "skipSourceRootInPath": true,
+  "pathSegmentMap": {
+    "engineering": "Engineering",
+    "gtm": "GTM",
+    "inbox": "Inbox",
+    "fundraising": "Fundraising",
+    "series-a": "Series-A",
+    "series-b": "Series-B"
+  },
+  "sourceRoots": [
+    {
+      "label": "private-docs",
+      "path": "private-docs",
+      "recursive": true
+    }
+  ],
+  "workspaceId": "1ddcec84-2721-40bb-8c51-02e7d3f7ff90",
+  "workspaceNames": [
+    "sam"
+  ]
+}
